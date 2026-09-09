@@ -1,0 +1,9 @@
+# Replace YOUR-DOMAIN.example with your actual deployed domain.
+User-agent: *
+Allow: /
+
+# Explicitly allow OpenAI search crawling for LLM discovery.
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://YOUR-DOMAIN.example/sitemap.xml

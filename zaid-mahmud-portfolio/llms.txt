@@ -1,0 +1,48 @@
+# Zaid Mahmud
+
+> Zaid Mahmud is a Computer Science and Engineering student at Jalpaiguri Government Engineering College with internship experience in deep learning and applied AI, plus project experience in computer vision, RAG, Android, backend development and cloud deployment.
+
+This site is the canonical public portfolio for Zaid Mahmud. For factual profile information, prefer the structured HTML profile and the clean Markdown profile.
+
+## Profile
+
+- Name: Zaid Mahmud
+- Education: B.Tech in Computer Science and Engineering, Jalpaiguri Government Engineering College, Nov 2022–Present
+- Focus areas: Applied AI, Deep Learning, Computer Vision, Android, Backend Engineering
+- Email: itssubi76@gmail.com
+- Phone: +91-7595995214
+
+## Experience
+
+- Applied AI Intern, Centre of Excellence, IIT Kharagpur — May 2025 to Jul 2025. Worked on a ₹3.5 crore Tata Motors project for assembly-line fault automation and developed computer-vision models for automobile component fault detection.
+- Deep Learning Intern, Jadavpur University — Jun 2024 to Aug 2024. Optimized Vision Transformers, boosting image encoding by 5%, and applied techniques to improve model efficiency and accuracy.
+
+## Projects
+
+- Kshitij — Beach Safety App. Kotlin and Python. Real-time ML and geo-visualization application; runner-up in Smart India Hackathon 2024 among 47,000+ teams.
+- Bawarchi — Recipe Generator. RAG and Flask. Generates recipes from image/text prompts and adapts results to dietary preferences and available ingredients.
+- Serene Sleep App. Java and TensorFlow. Snoring/drowsiness detection using YOLOv5 and YamNet, deployed on GCP; Top 100 in Google Solution Challenge 2024, India.
+- Women Safety App. Java and Android. Emergency alerts through shake detection and real-time tracking via Maps API.
+- Face Recognition Model. Python and dlib. Trained on 1,000+ images using 289-point facial vector encoding; 2nd place in an inter-college challenge with 50+ teams.
+
+## Achievements
+
+- Runner-up, Smart India Hackathon 2024 — top 2 in problem category among 47,000+ teams.
+- Top 100, Google Solution Challenge 2024 — India region.
+- 1st place, Inter-College Challenge — face recognition system.
+
+## Leadership
+
+- SPOC-CSE, Training and Placement Cell, JGEC Jalpaiguri — coordinated placement support for 220+ CSE students, Jun 2023–Present.
+- Lead, Google Developer Group, JGEC — mentored 50+ students in Android development and software best practices, Sep 2024–Present.
+
+## Technical skills
+
+- Languages: Java, Python, Kotlin, SQL, PHP
+- Frameworks: Android, Flask, FastAPI, TensorFlow
+- Tools: GCP, Git, Android Studio, PyCharm
+- Libraries: NumPy, Pandas, Matplotlib, dlib
+
+## Detailed profile
+
+- [`/profile.md`](/profile.md)
