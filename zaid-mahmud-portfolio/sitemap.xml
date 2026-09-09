@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace YOUR-DOMAIN.example with your actual deployed domain before publishing. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOUR-DOMAIN.example/</loc>
+    <loc>https://zaidmahmudportfolio.netlify.app/</loc>
     <lastmod>2026-08-30</lastmod>
   </url>
 </urlset>
